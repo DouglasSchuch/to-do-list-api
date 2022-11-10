@@ -19,7 +19,6 @@ $ npm install
 ## 3 - Rodar o sistema
 
 ```bash
-# development
 $ npm run start
 ```
 
@@ -29,5 +28,7 @@ $ npm run start
 # unit tests
 $ npm run test
 ```
+
+API rodará na porta padrão: 3000
 
 ## Autor: Douglas Schuch
